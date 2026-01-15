@@ -4,7 +4,10 @@ draft = false
 title = 'My Resume'
 +++
 ## Introduction
+<div style='text-align: justify;'>
 Hi, I am Yesu! I spent most of my time editing various kinds of videos for my personal hobbies and school projects. I can utilize both mobile video editing apps and desktop video editing softwares to make short movies, presentations, video captioning, and anime music videos.
+</div>
+
 
 ## Education
 ### Undergraduate
