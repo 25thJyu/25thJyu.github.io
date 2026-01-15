@@ -17,12 +17,12 @@ Our Lady of Fatima University - Bachelor of Science in Pharmacy (2020-2024), Boa
 ### Hospital Pharmacist (January 2025 - January 2026)
 * Dispensed and counseled patients regarding their medication.
 * Did stock inventory and kept track of incoming and outgoing medications.
-* Have proficient experience in Bizbox and related hospital and material management softwares.
+* Have relevant experience in Bizbox and related hospital and material management softwares.
 
 ## Projects
 ### miya atsumu (amv) - Sony Vegas 14 (June 2020) https://www.youtube.com/watch?v=MtshSDAz23c
 
-* Makes sure to edit the video in which the captions, music, and the video itself compliment each other.
+* Made sure to edit the video in which the captions, music, and the video itself compliment each other.
 * Experimented with more creative ways to make captions appear and move in accordance to the music and different fonts of text.
 
 ### khun (amv) - Adobe After Effects (September 2020) https://youtu.be/fDu9V6HdtJw
@@ -32,4 +32,4 @@ Our Lady of Fatima University - Bachelor of Science in Pharmacy (2020-2024), Boa
 
 ### the promised neverland (amv) - (February 2020) https://youtu.be/GRkMxCrLuRI?si=USXRrXX5yA6e2yVi
 
-* Focused on trying to encapsulate the feeling that watching this anime gave me. I wanted this AMV to have to fully express the chosen show's psychological aspects.
+* Focused on trying to encapsulate the feeling that expresses the chosen show's psychological aspects.
